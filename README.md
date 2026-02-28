@@ -12,6 +12,19 @@ This repo is my submission for the Secure Architecture & Design assignment. I ch
 
 The analysis covers system architecture, asset identification, STRIDE-based threat modeling, architectural security controls, and risk treatment. All diagrams were drawn in Mermaid and are in the `/Architecture` folder.
 
+## File Index
+
+| File | Task | Contents |
+|---|---|---|
+| `architecture/system-definition.md` | Task 1 | System components, data flows, trust boundaries, diagram description |
+| `architecture/diagram-v1.png` | Task 1 | Original architecture diagram |
+| `architecture/diagram-v2.png` | Task 4 | Updated architecture with security controls |
+| `assets/asset-inventory.md` | Task 2 | Asset inventory table mapped to CIA + Accountability |
+| `threat-model/stride-table.md` | Task 3 | Full STRIDE threat model with scenario explanations |
+| `controls/security-controls.md` | Task 4 | Architectural security controls with justifications |
+| `risk-treatment/risk-table.md` | Task 5 | Risk treatment decisions + residual risk explanation |
+| `report/full-report.md` | Task 6 | Combined final report tying all tasks together |
+
 
 ## Quick Summary
 
